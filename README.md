@@ -34,7 +34,7 @@ Assuming you have Node.js installed:
 
 ```bash
 # Clone the repo
-git clone https://github.com/keeganco15/notesApp.git
+git clone https://github.com/keeganco15/Notes-App.git
 cd notesApp
 
 # Install dependencies for backend
