@@ -52,7 +52,7 @@ npm start         # or whatever your start script is, e.g. `node index.js`
 # In a separate terminal: install and start frontend
 cd ../client
 npm install
-npm start         # this should run React in development mode (e.g. on http://localhost:3000)
+npm run dev         #  (e.g. on http://localhost:3000)
 ```
 
 After that:  
