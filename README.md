@@ -1,7 +1,7 @@
 # Personal Notes App
 
 A full-stack note-taking application built with a Node/Express backend and a React frontend.  
-Allows creation, editing and deletion of notes — a clean project for CRUD operations.
+Allows creation, editing and deletion of notes - a clean project for CRUD operations.
 
 ## Project Overview
   
@@ -10,7 +10,7 @@ This is a project that provides a minimal but complete notes management experien
 - View existing notes in a list.  
 - Edit or delete notes.  
 
-The goal was to build a maintainable CRUD application while practicing a realistic full-stack setup: frontend in React (with TypeScript), backend in Node.js + Express, and JSON as the data exchange format. 
+The goal was to build a maintainable CRUD application while practising a realistic full-stack setup: frontend in React (with TypeScript), backend in Node.js + Express, and JSON as the data exchange format. 
 
 ---
 
