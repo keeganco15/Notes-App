@@ -43,6 +43,9 @@ npm install
 
 # (Optional) If you have a database or .env, configure it now
 
+# Run build
+npm run build
+
 # Start backend
 npm start         # or whatever your start script is, e.g. `node index.js`
 
