@@ -15,7 +15,13 @@ The goal was to build a maintainable CRUD application while practising a realist
 ---
 
 ## Tech Stack
-
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 | Layer       | Technology         |
 |------------|--------------------------|
 | Frontend   | React + TypeScript        |
@@ -68,14 +74,14 @@ You should be able to open the React UI, create notes, and see them fetched from
 2. Use the **Create Note** form to add a note (title + content).  
 3. After submission, the note list refreshes and shows your new note.  
 4. From the note list, you can:
-   - **View** — view details of a note.  
-   - **Edit** — prefill the form with existing note data, update, and save.  
-   - **Delete** — remove a note permanently.  
+   - **View** - view details of a note.  
+   - **Edit** - prefill the form with existing note data, update, and save.  
+   - **Delete** - remove a note permanently.  
 5. The UI will show notes live, and the backend handles storing/updating/deleting (JSON file or database depending on setup).
 
 ---
 
-## Features (current)
+## Features
 
 - Create new notes (title + content)  
 - List all notes  
@@ -83,20 +89,12 @@ You should be able to open the React UI, create notes, and see them fetched from
 - Delete notes  
 - React + TypeScript frontend for type safety  
 - REST API backend with Node.js + Express  
-- Clean, minimal UI — easy to extend  
+- Clean, minimal UI 
 
 ---
 
-## About Me / Attribution
 
-Built by **Keegan Doherty**.  
-Part of my personal portfolio and full-stack development learning journey.  
+## License
 
-Feel free to open issues or contribute enhancements if you find something useful or want to extend the app.
-
----
-
-## 📄 License
-
-This project is provided “as is” — you can feel free to adapt or reuse it for learning or personal projects.  
+MIT
 
